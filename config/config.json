@@ -1,0 +1,21 @@
+{
+    
+    "development": {
+        "config_id": "development",
+        "app_name": "my app",
+        "app_desc": "my app desc",
+        "node_port": 3000,
+        "ON":1,
+        "OFF":0,
+        "NOT_SET":null,
+        "floornos":2,
+        "time":3000
+    },
+    "testing": {
+        "config_id": "testing",
+        "database": "my-app-db-test",
+        "ON":1,
+        "OFF":0,
+        "time":60
+    }
+}
